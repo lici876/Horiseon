@@ -1,0 +1,1 @@
+Horiseon is a well-structured and accessible webpage, designed for seamless navigation. The site features intuitive links at the top, allowing users to effortlessly move throughout the content. The primary objective of this project was to refactor non-semantic HTML code into semantic HTML, enhancing both accessibility and code clarity.
